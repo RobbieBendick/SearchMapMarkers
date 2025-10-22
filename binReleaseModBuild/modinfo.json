@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "searchmapmarkers",
+  "name": "Search Map Markers",
+  "authors": [
+    "Mageiden"
+  ],
+  "description": "Allows the user to search a waypoint title and have the camera snap to its location.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.21.4",
+  }
+}
